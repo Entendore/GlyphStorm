@@ -1,0 +1,2 @@
+-keep class com.example.glyphstorm.** { *; }
+-dontwarn com.google.android.gms.**
